@@ -1,4 +1,4 @@
-# Financial Markets Portfolio | EMLV 2025–2027
+# Master's Projects Portfolio | M1 Financial Markets | EMLV 2025–2027
 
 Selected projects in financial engineering, sustainable investing, and econometrics.
 
